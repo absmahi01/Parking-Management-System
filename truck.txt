@@ -1,0 +1,2 @@
+SerialNo	EntryTime	LicenseNumber	Password	Exit Time 
+1		21:20			1234	32051		0:0	

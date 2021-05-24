@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618661538 source:c:\users\jamil\downloads\arnov\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
